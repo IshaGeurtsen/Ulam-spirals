@@ -12,6 +12,7 @@ a number is chosen that is proportionally between the floor of the sqrt and the 
 <img src="Capture.PNG">
 
 To run this program, you need to have python 3 installed.
-Execute the following command on a commandline.
-
-$ `python ulam_spiral.py`
+1. clone this repository.
+2. open the directory Ulam-spirals in a terminal.
+3. finally run  
+    $ `python ulam_spiral.py`
